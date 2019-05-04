@@ -1,1 +1,3 @@
-# AndroidAPI-sms6
+# ANDROID PROJECT
+
+Client dari https://github.com/msyalva/sms6_laravel
